@@ -660,3 +660,9 @@ Output:
 - Dictionaries cannot be elements of sets
 
 - Dictionaries can be values inside dictionaries
+---
+
+Q.
+
+_Answer:_
+
